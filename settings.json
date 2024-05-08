@@ -1,0 +1,9 @@
+{
+	"editor.renderWhitespace": "all",
+	"editor.formatOnSave": true,
+	"git.confirmSync": false,
+	"git.autofetch": true,
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"javascript.format.semicolons": "insert"
+}
