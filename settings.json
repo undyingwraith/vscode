@@ -7,5 +7,9 @@
 	"editor.insertSpaces": false,
 	"javascript.format.semicolons": "insert",
 	"files.insertFinalNewline": true,
-	"files.enableTrash": false
+	"files.enableTrash": false,
+	"javascript.preferences.importModuleSpecifierEnding": "minimal",
+	"javascript.preferences.quoteStyle": "single",
+	"typescript.preferences.quoteStyle": "single",
+	"typescript.format.semicolons": "insert"
 }
